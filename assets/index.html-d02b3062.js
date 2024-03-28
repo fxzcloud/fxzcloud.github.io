@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-57e54ebc","path":"/tag/%E5%88%86%E5%B8%83%E5%BC%8F/","title":"分布式 标签","lang":"zh-CN","frontmatter":{"title":"分布式 标签","blog":{"type":"category","name":"分布式","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

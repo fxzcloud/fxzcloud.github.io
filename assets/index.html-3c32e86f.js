@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bf23f2a0","path":"/category/resilience4j/","title":"resilience4j 分类","lang":"zh-CN","frontmatter":{"title":"resilience4j 分类","blog":{"type":"category","name":"resilience4j","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{e as data};

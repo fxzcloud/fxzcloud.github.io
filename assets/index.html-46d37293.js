@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b721b504","path":"/tag/%E9%9A%94%E6%9D%BF/","title":"隔板 标签","lang":"zh-CN","frontmatter":{"title":"隔板 标签","blog":{"type":"category","name":"隔板","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

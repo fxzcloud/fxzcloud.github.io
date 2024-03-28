@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-360f1fa8","path":"/tag/feign/","title":"feign 标签","lang":"zh-CN","frontmatter":{"title":"feign 标签","blog":{"type":"category","name":"feign","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{e as data};

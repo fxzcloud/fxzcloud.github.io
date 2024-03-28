@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1819ef4e","path":"/tag/%E7%86%94%E6%96%AD/","title":"熔断 标签","lang":"zh-CN","frontmatter":{"title":"熔断 标签","blog":{"type":"category","name":"熔断","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

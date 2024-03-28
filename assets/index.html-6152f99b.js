@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-023f3a0d","path":"/tag/%E9%99%90%E6%97%B6%E5%99%A8/","title":"限时器 标签","lang":"zh-CN","frontmatter":{"title":"限时器 标签","blog":{"type":"category","name":"限时器","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};
