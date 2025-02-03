@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1832b531","path":"/category/%E7%8A%B6%E6%80%81%E6%9C%BA/","title":"状态机 分类","lang":"zh-CN","frontmatter":{"title":"状态机 分类","blog":{"type":"category","name":"状态机","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

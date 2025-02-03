@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-59d0051e","path":"/tag/%E6%97%A5%E5%BF%97/","title":"日志 标签","lang":"zh-CN","frontmatter":{"title":"日志 标签","blog":{"type":"category","name":"日志","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

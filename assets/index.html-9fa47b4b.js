@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4752f5ca","path":"/article/java/note/Java8-in-action/","title":"Java8 in Action","lang":"zh-CN","frontmatter":{"title":"Java8 in Action"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{a as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-28d4e487","path":"/source-code/SpringBoot/","title":"Spring Boot","lang":"zh-CN","frontmatter":{"title":"Spring Boot"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{t as data};

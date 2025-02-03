@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-df028a6e","path":"/category/groovy/","title":"groovy 分类","lang":"zh-CN","frontmatter":{"title":"groovy 分类","blog":{"type":"category","name":"groovy","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{e as data};

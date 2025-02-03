@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-1e44e18c","path":"/tag/lambda/","title":"lambda 标签","lang":"zh-CN","frontmatter":{"title":"lambda 标签","blog":{"type":"category","name":"lambda","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{a as data};

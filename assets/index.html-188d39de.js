@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-65f163c6","path":"/category/jvm/","title":"jvm 分类","lang":"zh-CN","frontmatter":{"title":"jvm 分类","blog":{"type":"category","name":"jvm","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

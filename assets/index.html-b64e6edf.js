@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a9330bb8","path":"/source-code/nacos/","title":"Nacos","lang":"zh-CN","frontmatter":{"title":"Nacos"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{e as data};

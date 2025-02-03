@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-37244d97","path":"/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/","title":"人工智能 标签","lang":"zh-CN","frontmatter":{"title":"人工智能 标签","blog":{"type":"category","name":"人工智能","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-33b12dec","path":"/tag/%E5%BC%80%E6%BA%90%E7%BB%84%E4%BB%B6/","title":"开源组件 标签","lang":"zh-CN","frontmatter":{"title":"开源组件 标签","blog":{"type":"category","name":"开源组件","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c867d4c2","path":"/article/jvm/note/deeper-understanding-of-java-virtual-machine/","title":"Deeper Understanding of Java Virtual Machine","lang":"zh-CN","frontmatter":{"title":"Deeper Understanding of Java Virtual Machine"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{e as data};

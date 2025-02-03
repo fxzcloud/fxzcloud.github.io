@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d559ddb6","path":"/tag/%E5%93%8D%E5%BA%94%E5%BC%8F/","title":"响应式 标签","lang":"zh-CN","frontmatter":{"title":"响应式 标签","blog":{"type":"category","name":"响应式","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

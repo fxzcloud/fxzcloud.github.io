@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5e0b61bd","path":"/category/%E6%95%B0%E6%8D%AE%E5%BA%93/","title":"数据库 分类","lang":"zh-CN","frontmatter":{"title":"数据库 分类","blog":{"type":"category","name":"数据库","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7d0ba9b4","path":"/tag/spring/","title":"spring 标签","lang":"zh-CN","frontmatter":{"title":"spring 标签","blog":{"type":"category","name":"spring","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

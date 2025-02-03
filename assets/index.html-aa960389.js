@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-84e19a6a","path":"/category/seata/","title":"seata 分类","lang":"zh-CN","frontmatter":{"title":"seata 分类","blog":{"type":"category","name":"seata","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{a as data};

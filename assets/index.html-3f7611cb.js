@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-29cbee6c","path":"/tag/%E6%8C%81%E4%B9%85%E5%8C%96/","title":"持久化 标签","lang":"zh-CN","frontmatter":{"title":"持久化 标签","blog":{"type":"category","name":"持久化","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

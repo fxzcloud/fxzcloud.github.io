@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-52f16654","path":"/category/%E7%BC%93%E5%AD%98/","title":"缓存 分类","lang":"zh-CN","frontmatter":{"title":"缓存 分类","blog":{"type":"category","name":"缓存","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

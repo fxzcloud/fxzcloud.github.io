@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c35141ba","path":"/article/ddd/note/implementing-domain-driven-design/","title":"Implementing Domain Driven Design","lang":"zh-CN","frontmatter":{"title":"Implementing Domain Driven Design"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{e as data};

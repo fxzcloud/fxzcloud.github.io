@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41cce2f2","path":"/tag/%E6%B6%88%E6%81%AF%E6%8E%A8%E9%80%81/","title":"消息推送 标签","lang":"zh-CN","frontmatter":{"title":"消息推送 标签","blog":{"type":"category","name":"消息推送","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

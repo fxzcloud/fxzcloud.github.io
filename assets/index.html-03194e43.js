@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-099d48cd","path":"/article/uml/","title":"Uml","lang":"zh-CN","frontmatter":{"title":"Uml"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{t as data};

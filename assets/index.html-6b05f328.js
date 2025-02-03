@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b303fdae","path":"/tag/uml/","title":"uml 标签","lang":"zh-CN","frontmatter":{"title":"uml 标签","blog":{"type":"category","name":"uml","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

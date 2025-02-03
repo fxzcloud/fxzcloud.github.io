@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48e0bb58","path":"/category/jprofiler/","title":"JProfiler 分类","lang":"zh-CN","frontmatter":{"title":"JProfiler 分类","blog":{"type":"category","name":"JProfiler","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{e as data};

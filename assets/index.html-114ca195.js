@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-425bb5bf","path":"/tag/%E7%94%9F%E4%BA%A7/","title":"生产 标签","lang":"zh-CN","frontmatter":{"title":"生产 标签","blog":{"type":"category","name":"生产","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b313b7ce","path":"/tag/ddd/","title":"ddd 标签","lang":"zh-CN","frontmatter":{"title":"ddd 标签","blog":{"type":"category","name":"ddd","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41449b32","path":"/tag/%E7%8A%B6%E6%80%81%E6%9C%BA/","title":"状态机 标签","lang":"zh-CN","frontmatter":{"title":"状态机 标签","blog":{"type":"category","name":"状态机","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

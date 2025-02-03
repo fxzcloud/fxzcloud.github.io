@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0da0abf9","path":"/tag/ai/","title":"ai 标签","lang":"zh-CN","frontmatter":{"title":"ai 标签","blog":{"type":"category","name":"ai","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{a as data};

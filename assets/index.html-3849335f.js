@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-66cb198c","path":"/article/java/thread-local/","title":"Thread Local","lang":"zh-CN","frontmatter":{"title":"Thread Local"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{a as data};

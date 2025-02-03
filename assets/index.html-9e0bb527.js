@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8848dfa8","path":"/category/redis/","title":"redis 分类","lang":"zh-CN","frontmatter":{"title":"redis 分类","blog":{"type":"category","name":"redis","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{e as data};

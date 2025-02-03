@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c214383c","path":"/category/agent/","title":"agent 分类","lang":"zh-CN","frontmatter":{"title":"agent 分类","blog":{"type":"category","name":"agent","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};

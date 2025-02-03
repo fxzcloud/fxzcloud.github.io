@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-304fd5d4","path":"/article/resilience4j/","title":"Resilience4j","lang":"zh-CN","frontmatter":{"title":"Resilience4j"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{e as data};

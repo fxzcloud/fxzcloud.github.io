@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0ad5e4a2","path":"/article/groovy/","title":"Groovy","lang":"zh-CN","frontmatter":{"title":"Groovy"},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":1},"filePathRelative":null,"copyright":{}}');export{t as data};

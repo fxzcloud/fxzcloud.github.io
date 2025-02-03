@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-84b16ad4","path":"/tag/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/","title":"系统设计 标签","lang":"zh-CN","frontmatter":{"title":"系统设计 标签","blog":{"type":"category","name":"系统设计","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{}}');export{t as data};
